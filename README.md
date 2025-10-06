@@ -62,8 +62,8 @@ mediscan_ai_streamlit/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/mediscan_ai_streamlit.git
-   cd mediscan_ai_streamlit
+   git clone https://github.com/MuhammadTayyabCoder/Medical-Report-Analyzer---GenAI-Project.git
+   cd Medical-Report-Analyzer---GenAI-Project
    ```
 
 2. **Install dependencies**
@@ -104,7 +104,7 @@ GROQ_API_KEY = "your_api_key_here"
 In your code:
 ```python
 import streamlit as st
-api_key = st.secrets["GROQ_API_KEY"]
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 ```
 
 ---
@@ -126,13 +126,10 @@ After analysis, the app generates output like:
 ## 🧑‍💻 Author
 
 **Muhammad Tayyab**  
-🎓 Mathematics Student | 💡 Data Science & AI Enthusiast  
-📧 [your-email@example.com]  
-🌐 [LinkedIn / GitHub profile link]
+🎓 Mathematics Student | 💡 Data Science & AI Enthusiast   
+🌐 https://www.linkedin.com/in/muhammad-tayyab-data-scientist-mathematician
 
 ---
-
-
 
 ---
 
