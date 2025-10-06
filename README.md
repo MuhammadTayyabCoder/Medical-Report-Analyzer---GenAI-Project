@@ -22,7 +22,7 @@ It simulates how a multidisciplinary medical team collaborates to reach a compre
 ## 🧩 Project Structure
 
 ```
-mediscan_ai_streamlit/
+Medical-Report-Analyzer---GenAI-Project/
 │
 ├── app.py                      # Streamlit UI application
 ├── Utils/
