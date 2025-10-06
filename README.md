@@ -3,6 +3,7 @@
 **MediScan AI** is an intelligent system built using **LangChain**, **Groq LLM**, and **Streamlit** to analyze medical reports and provide diagnostic insights from multiple specialist perspectives — **Cardiologist**, **Psychologist**, and **Pulmonologist**.  
 It simulates how a multidisciplinary medical team collaborates to reach a comprehensive diagnosis.
 
+**Streamlit App:** https://medical-report-analyzer-genai-project.streamlit.app/ 
 ---
 
 ## 🚀 Features
