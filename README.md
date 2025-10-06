@@ -131,8 +131,6 @@ After analysis, the app generates output like:
 
 ---
 
----
-
 > ⚠️ **Disclaimer:**  
 > MediScan AI is for educational and research purposes only.  
 > It does **not** provide medical advice, diagnosis, or treatment.
